@@ -1,0 +1,19 @@
+.infoBox{
+    width: 220px;
+    text-align: left;
+  }
+
+  .infoBox__Active{
+      color: #003ce1;
+      margin-bottom: 10px;
+  }
+  
+  .infoBox__Recovered{
+    color: 	#30b400 !important;
+    margin-bottom: 10px;
+}
+
+.infoBox__Deaths{
+    color: 	#e1003c !important;
+    margin-bottom: 10px;
+}
