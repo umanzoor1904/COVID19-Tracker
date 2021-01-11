@@ -1,19 +1,19 @@
-#COVID19-Tracker
+# COVID19-Tracker
 
 A web application that tracks Covid cases from around the world. The app displays active, recovered, death cases for the selected country, the line graph for the selected case and a list of total cases by countries.
 
 Demo: https://lucid-newton-e8fb2f.netlify.app/
 
-#API
+# API
 https://disease.sh/
 
-#Skills Used:
+# Skills Used
 React, GitHub, Visual Studio Code
 
-#Libraries Used:
-https://material-ui.com/
-https://www.chartjs.org/
-https://github.com/s-yadav/react-number-format
+# Libraries Used
+https://material-ui.com/ \
+https://www.chartjs.org/ \
+https://github.com/s-yadav/react-number-format\ \
 
 
 # Getting Started with Create React App
